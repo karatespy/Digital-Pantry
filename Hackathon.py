@@ -1,6 +1,6 @@
 #Program that keeps stock of your pantry, and automatically adds items to the grocery list.
 
-menu='''\nWelcome to your Digital Shopping List! Select an option:
+menu='''\nWelcome to your Digital Pantry! Select an option:
 1 - Modify the list of your pantry's contents
 2 - See your current stores of food
 3 - Check which items are running low
