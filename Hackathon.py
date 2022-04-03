@@ -16,7 +16,7 @@ item=''
 value=0
 change=0
 modify=0
-current={}
+current={'Bread':3,'Baked Beans':4,'Chicken Broth':1,'Cookies':0}
 low=[]
 shopping=[]
 
